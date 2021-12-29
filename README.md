@@ -24,4 +24,4 @@ This project is a fullstack ERP Purchase module. It was created with the MERN st
 
 ### Video Walktrough
 
-![](https://github.com/brunohgrau/ERPCompras/blob/main/ERPCompras.gif)
+![](https://github.com/brunohgrau/ERPCompras/blob/main/ERPCompras.mp4)
