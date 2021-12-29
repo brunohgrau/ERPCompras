@@ -15,9 +15,9 @@ This project is a fullstack ERP Purchase module. It was created with the MERN st
 - Express
 - MongoDB
 
-
 ### User Stories
--User can login and register
--User can CRUD a purchase 
--User can CRUD a provider
--User can see a table with all products purchased
+
+- User can login and register
+- User can CRUD a purchase 
+- User can CRUD a provider
+- User can see a table with all products purchased
