@@ -20,7 +20,7 @@ const TableCompras = ({ data }) => {
         Header: "Data de Compra",
         accessor: "data",
         Cell: ({ value }) => {
-          return moment(value).format("DD/MM/YYYY");
+          return moment(value, "DD-MM-YYYY").format("DD-MM-YYYY");
         }
       },
       {
@@ -35,7 +35,7 @@ const TableCompras = ({ data }) => {
         Header: "Vencimento",
         accessor: "vencimento",
         Cell: ({ value }) => {
-          return moment(value).format("DD/MM/YYYY");
+          return moment(value, "DD-MM-YYYY").format("DD-MM-YYYY");
         }
       },
       {
